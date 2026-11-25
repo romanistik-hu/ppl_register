@@ -1,0 +1,12 @@
+parameter,krippendorff_alpha
+privacy,0.7409
+familiarity,0.9395
+emotional_load,0.8939
+situational_embedding,0.9577
+referential_proximity,0.9163
+spatiotemporal_proximity,1.0
+cooperation,1.0
+dialogicity,0.7299
+spontaneity,0.733
+free_thematization,0.9683
+POOLED_ALL_PARAMETERS,0.9178

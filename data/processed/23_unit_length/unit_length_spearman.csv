@@ -1,0 +1,7 @@
+subset,n,measure,rho_ppl_salamandra,p_ppl_salamandra,rho_ppl_llama3,p_ppl_llama3,rho_ppl_mistral,p_ppl_mistral,rho_md_f1,p_md_f1,rho_ko,p_ko
+oral,10,words_per_unit,-0.503,0.13833,-0.539,0.10759,-0.212,0.55631,0.042,0.90736,-0.383,0.27467
+oral,10,mean_words,-0.721,0.01857,-0.552,0.0984,-0.515,0.12755,-0.6,0.06669,-0.778,0.00803
+oral,10,words_per_unit_vs_mean_words,,,,,,,,,0.079,0.82872
+all,13,words_per_unit,-0.758,0.00267,-0.775,0.00187,-0.626,0.02199,-0.511,0.07433,-0.711,0.00647
+all,13,mean_words,-0.868,0.00012,-0.791,0.00128,-0.775,0.00187,-0.808,0.00084,-0.868,0.00012
+all,13,words_per_unit_vs_mean_words,,,,,,,,,0.538,0.05763

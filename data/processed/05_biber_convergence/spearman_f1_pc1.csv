@@ -1,0 +1,2 @@
+n,rho,p_two_tailed,p_one_tailed,verdict,biber_f1_flipped
+13,0.879,0.0001,0.0,✓ Convergencia significativa,False

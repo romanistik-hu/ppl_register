@@ -1,0 +1,61 @@
+model,pole,sentence_id,ppl,text
+salamandra,planned,0,14.200313555197072,La Consejería de Turismo ha aprobado hoy una nueva partida presupuestaria destinada a la mejora de las infraestructuras portuarias del archipiélago.
+salamandra,planned,1,8.29779984140761,"En sesión plenaria celebrada el pasado martes, la Cámara acordó por unanimidad remitir el expediente a la comisión correspondiente para su estudio detallado."
+salamandra,planned,2,9.489810365266965,El presente informe recoge las conclusiones alcanzadas tras el análisis pormenorizado de los datos aportados por las administraciones competentes.
+salamandra,planned,3,11.18381420929414,"Según fuentes oficiales, el proyecto de rehabilitación del casco histórico contempla una inversión superior a los tres millones de euros."
+salamandra,planned,4,12.521993305812755,La corporación municipal ha manifestado su compromiso con la sostenibilidad ambiental a través de la firma de un nuevo convenio de colaboración.
+salamandra,planned,5,8.35214623050507,Se hace constar que la presente resolución podrá ser recurrida en el plazo de un mes ante el órgano administrativo correspondiente.
+salamandra,planned,6,9.715146578583411,El pleno del cabildo insular procedió a la votación de las enmiendas presentadas por los distintos grupos políticos.
+salamandra,planned,7,38.18830241408875,La memoria anual detalla los avances registrados en materia de empleo juvenil durante el último ejercicio.
+salamandra,planned,8,12.387162948781082,Los servicios técnicos han elaborado un informe favorable sobre la viabilidad del proyecto presentado por la entidad promotora.
+salamandra,planned,9,11.784000881705012,"Con motivo de la efeméride, las autoridades insulares han convocado un acto institucional en la sede del organismo."
+salamandra,spontaneous,0,21.133781997902517,"Mira, yo ayer fui pa' casa de mi agüela y ella tenía la guagua esperándome allí en la parada, pero llegué tarde y ya se había ido."
+salamandra,spontaneous,1,34.16362722575854,"Oye, y tú ¿qué hiciste al final con lo del trabajo ese que te dije, lo dejaste o qué fisco pasó ahí?"
+salamandra,spontaneous,2,15.357491245643894,"No sé, chacho, es que a mí esas cosas me ponen de un nervioso que no veas, en serio te lo digo."
+salamandra,spontaneous,3,19.10524859406412,"Bueno pues nada, allí estábamos los tres esperando y va y se pone a llover, imagínate el show que se armó."
+salamandra,spontaneous,4,13.688687440553007,"Y yo le digo, oye pero eso no es así, y ella ni caso, siguió a lo suyo como si nada."
+salamandra,spontaneous,5,19.73181548413119,"Fíjate que el otro día fui al mercadillo y había una cola que no veas, tuve que esperar como media hora pa' comprar cuatro papas."
+salamandra,spontaneous,6,10.081243062243901,"La verdad es que no tengo ni idea, eso pregúntaselo a mi hermano que él sabe más de eso que yo."
+salamandra,spontaneous,7,26.128127321586415,"Ay mija, no me hables de eso que todavía me da hasta rabia de pensarlo, fue un lío tremendo."
+salamandra,spontaneous,8,14.92908322700081,"Total que al final ni fuimos a la playa ni nada, nos quedamos ahí en casa viendo la tele todo el día."
+salamandra,spontaneous,9,20.57056008206424,"Eso sí, cuando llegue le voy a decir cuatro cosas, porque así no se puede seguir, oye."
+llama3,planned,0,5.890927288919442,La Consejería de Turismo ha aprobado hoy una nueva partida presupuestaria destinada a la mejora de las infraestructuras portuarias del archipiélago.
+llama3,planned,1,6.512372553674975,"En sesión plenaria celebrada el pasado martes, la Cámara acordó por unanimidad remitir el expediente a la comisión correspondiente para su estudio detallado."
+llama3,planned,2,6.412411179121873,El presente informe recoge las conclusiones alcanzadas tras el análisis pormenorizado de los datos aportados por las administraciones competentes.
+llama3,planned,3,7.331554882159645,"Según fuentes oficiales, el proyecto de rehabilitación del casco histórico contempla una inversión superior a los tres millones de euros."
+llama3,planned,4,7.612710237854499,La corporación municipal ha manifestado su compromiso con la sostenibilidad ambiental a través de la firma de un nuevo convenio de colaboración.
+llama3,planned,5,8.60974734597129,Se hace constar que la presente resolución podrá ser recurrida en el plazo de un mes ante el órgano administrativo correspondiente.
+llama3,planned,6,6.8608310319743255,El pleno del cabildo insular procedió a la votación de las enmiendas presentadas por los distintos grupos políticos.
+llama3,planned,7,26.866200177512567,La memoria anual detalla los avances registrados en materia de empleo juvenil durante el último ejercicio.
+llama3,planned,8,13.820865689403654,Los servicios técnicos han elaborado un informe favorable sobre la viabilidad del proyecto presentado por la entidad promotora.
+llama3,planned,9,12.287565759754367,"Con motivo de la efeméride, las autoridades insulares han convocado un acto institucional en la sede del organismo."
+llama3,spontaneous,0,17.082575177583895,"Mira, yo ayer fui pa' casa de mi agüela y ella tenía la guagua esperándome allí en la parada, pero llegué tarde y ya se había ido."
+llama3,spontaneous,1,44.52729114667018,"Oye, y tú ¿qué hiciste al final con lo del trabajo ese que te dije, lo dejaste o qué fisco pasó ahí?"
+llama3,spontaneous,2,21.782780574539252,"No sé, chacho, es que a mí esas cosas me ponen de un nervioso que no veas, en serio te lo digo."
+llama3,spontaneous,3,22.419219275574065,"Bueno pues nada, allí estábamos los tres esperando y va y se pone a llover, imagínate el show que se armó."
+llama3,spontaneous,4,22.20496270686288,"Y yo le digo, oye pero eso no es así, y ella ni caso, siguió a lo suyo como si nada."
+llama3,spontaneous,5,16.453540559841446,"Fíjate que el otro día fui al mercadillo y había una cola que no veas, tuve que esperar como media hora pa' comprar cuatro papas."
+llama3,spontaneous,6,9.874167455978085,"La verdad es que no tengo ni idea, eso pregúntaselo a mi hermano que él sabe más de eso que yo."
+llama3,spontaneous,7,18.499085002094695,"Ay mija, no me hables de eso que todavía me da hasta rabia de pensarlo, fue un lío tremendo."
+llama3,spontaneous,8,18.839927343302488,"Total que al final ni fuimos a la playa ni nada, nos quedamos ahí en casa viendo la tele todo el día."
+llama3,spontaneous,9,46.07887907911647,"Eso sí, cuando llegue le voy a decir cuatro cosas, porque así no se puede seguir, oye."
+mistral,planned,0,4.325800050191631,La Consejería de Turismo ha aprobado hoy una nueva partida presupuestaria destinada a la mejora de las infraestructuras portuarias del archipiélago.
+mistral,planned,1,7.895327009445906,"En sesión plenaria celebrada el pasado martes, la Cámara acordó por unanimidad remitir el expediente a la comisión correspondiente para su estudio detallado."
+mistral,planned,2,5.968429125053199,El presente informe recoge las conclusiones alcanzadas tras el análisis pormenorizado de los datos aportados por las administraciones competentes.
+mistral,planned,3,4.853144851671422,"Según fuentes oficiales, el proyecto de rehabilitación del casco histórico contempla una inversión superior a los tres millones de euros."
+mistral,planned,4,7.717931889735732,La corporación municipal ha manifestado su compromiso con la sostenibilidad ambiental a través de la firma de un nuevo convenio de colaboración.
+mistral,planned,5,9.265007674172423,Se hace constar que la presente resolución podrá ser recurrida en el plazo de un mes ante el órgano administrativo correspondiente.
+mistral,planned,6,7.097403097482939,El pleno del cabildo insular procedió a la votación de las enmiendas presentadas por los distintos grupos políticos.
+mistral,planned,7,12.053951349386821,La memoria anual detalla los avances registrados en materia de empleo juvenil durante el último ejercicio.
+mistral,planned,8,8.026921692521748,Los servicios técnicos han elaborado un informe favorable sobre la viabilidad del proyecto presentado por la entidad promotora.
+mistral,planned,9,13.959265006285626,"Con motivo de la efeméride, las autoridades insulares han convocado un acto institucional en la sede del organismo."
+mistral,spontaneous,0,19.251237053672938,"Mira, yo ayer fui pa' casa de mi agüela y ella tenía la guagua esperándome allí en la parada, pero llegué tarde y ya se había ido."
+mistral,spontaneous,1,43.51879364189173,"Oye, y tú ¿qué hiciste al final con lo del trabajo ese que te dije, lo dejaste o qué fisco pasó ahí?"
+mistral,spontaneous,2,21.18090586524689,"No sé, chacho, es que a mí esas cosas me ponen de un nervioso que no veas, en serio te lo digo."
+mistral,spontaneous,3,31.007936945330744,"Bueno pues nada, allí estábamos los tres esperando y va y se pone a llover, imagínate el show que se armó."
+mistral,spontaneous,4,35.03705653477496,"Y yo le digo, oye pero eso no es así, y ella ni caso, siguió a lo suyo como si nada."
+mistral,spontaneous,5,16.825575110339383,"Fíjate que el otro día fui al mercadillo y había una cola que no veas, tuve que esperar como media hora pa' comprar cuatro papas."
+mistral,spontaneous,6,11.156527319088855,"La verdad es que no tengo ni idea, eso pregúntaselo a mi hermano que él sabe más de eso que yo."
+mistral,spontaneous,7,31.833086370394575,"Ay mija, no me hables de eso que todavía me da hasta rabia de pensarlo, fue un lío tremendo."
+mistral,spontaneous,8,17.309535984825196,"Total que al final ni fuimos a la playa ni nada, nos quedamos ahí en casa viendo la tele todo el día."
+mistral,spontaneous,9,41.918052497869326,"Eso sí, cuando llegue le voy a decir cuatro cosas, porque así no se puede seguir, oye."

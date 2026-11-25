@@ -1,0 +1,4 @@
+comparison,model_1,model_2,disparity,interpretation
+salamandra ~ llama3,salamandra,llama3,0.067,minor
+salamandra ~ mistral,salamandra,mistral,0.1655,moderate
+llama3 ~ mistral,llama3,mistral,0.0774,minor

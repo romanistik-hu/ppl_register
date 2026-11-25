@@ -1,0 +1,4 @@
+model,disparity_vs_consensus,interpretation
+salamandra,0.050903,minor
+llama3,0.011927,negligible
+mistral,0.047094,negligible

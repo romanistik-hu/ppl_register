@@ -1,0 +1,4 @@
+model_1,model_2,rho,p,sig
+salamandra,llama3,0.967,0.0,***
+salamandra,mistral,0.8846,5.9e-05,***
+llama3,mistral,0.9176,1e-05,***

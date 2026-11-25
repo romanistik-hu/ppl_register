@@ -1,0 +1,14 @@
+nombre_corpus,tipo_corpus,divergence,f1_biber,f2_biber,pc1_agnostic,pc2_agnostic
+AMERESCO,spoken-covert,0.3549,0.696,-1.022,2.396,-0.572
+Jable,written-press,0.2918,-1.015,-0.477,-2.402,-0.145
+PARCAN_discursos,written,0.2871,-1.386,-0.725,-2.51,-0.188
+WhCan,spoken-whatsapp,0.2809,0.276,-1.509,0.429,-0.706
+Bot_individual,bot,0.264,0.002,1.382,-1.225,0.23
+PRESEEA_alto,spoken-interview,0.2373,0.053,-0.014,1.407,0.556
+PRESEEA_medio,spoken_interview,0.2324,0.585,-0.105,1.755,0.576
+Bot_pareja,bot,0.2045,0.057,1.065,-1.036,0.041
+PARCAN_declaraciones,written,0.1516,-1.805,-0.949,-2.129,0.703
+PRESEEA_bajo,spoken_interview,0.1468,1.098,0.024,1.538,0.388
+Carto_expo,spoken-presentation,0.1399,-0.956,2.151,-0.52,-0.623
+Carto_grupo,spoken-semi-covert,0.0886,0.582,0.335,0.85,-0.57
+COSER,spoken-interview,0.0606,1.813,-0.156,1.448,0.309

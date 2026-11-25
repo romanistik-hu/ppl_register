@@ -1,0 +1,2 @@
+statistic,value,ci_lo_95,ci_hi_95,p_value,n,n_resamples,method
+spearman_rho,0.8791208791208791,0.7393767705382437,0.9943019943019942,7.544562359359131e-05,13,10000,BCa

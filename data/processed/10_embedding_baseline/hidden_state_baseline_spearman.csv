@@ -1,0 +1,4 @@
+model,hidden_dim,pc1_var_explained,rho_PC1_F1,p_PC1_F1,rho_PC1_KO,p_PC1_KO,n_corpora
+salamandra,4096,0.4102,0.863,0.00015,0.821,0.00058,13
+llama3,4096,0.458,0.923,1e-05,0.862,0.00015,13
+mistral,4096,0.4959,0.923,1e-05,0.815,0.00068,13

@@ -1,0 +1,14 @@
+nombre_corpus,tipo_corpus,displacement,pc1_full,pc2_full,pc1_controlled,pc2_controlled
+PARCAN_discursos,written,0.0532,-0.4037,-0.0302,-0.3634,0.0046
+Carto_expo,spoken-presentation,0.0382,-0.0837,-0.1003,-0.1096,-0.1284
+PARCAN_declaraciones,written,0.0296,-0.3425,0.1132,-0.3628,0.0915
+PRESEEA_alto,spoken-interview,0.0263,0.2263,0.0895,0.2483,0.1039
+PRESEEA_bajo,spoken_interview,0.0245,0.2473,0.0624,0.268,0.0755
+AMERESCO,spoken-covert,0.024,0.3854,-0.092,0.3615,-0.0946
+WhCan,spoken-whatsapp,0.0231,0.069,-0.1135,0.0461,-0.1165
+PRESEEA_medio,spoken_interview,0.0198,0.2824,0.0926,0.2982,0.1044
+Jable,written-press,0.0171,-0.3863,-0.0233,-0.3693,-0.0217
+COSER,spoken-interview,0.0145,0.233,0.0496,0.2186,0.0485
+Bot_individual,bot,0.0117,-0.1971,0.037,-0.2025,0.0267
+Bot_pareja,bot,0.0102,-0.1667,0.0066,-0.1714,-0.0025
+Carto_grupo,spoken-semi-covert,0.0016,0.1368,-0.0917,0.1384,-0.0915

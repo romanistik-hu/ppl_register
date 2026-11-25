@@ -1,0 +1,14 @@
+nombre_corpus,mode,n_words,n_reduced,pct_reduced,n_markup,pct_markup
+AMERESCO,oral,12260,72,0.587,22,0.179
+Carto_expo,oral,13774,2,0.015,0,0.0
+Carto_grupo,oral,119856,21,0.018,0,0.0
+Bot_individual,oral,41409,3,0.007,22,0.053
+Bot_pareja,oral,76689,4,0.005,63,0.082
+COSER,oral,166517,2575,1.546,554,0.333
+PRESEEA_alto,oral,66180,12,0.018,0,0.0
+PRESEEA_bajo,oral,59217,11,0.019,0,0.0
+PRESEEA_medio,oral,64312,11,0.017,0,0.0
+PARCAN_declaraciones,written,25465,5,0.02,0,0.0
+PARCAN_discursos,written,232611,29,0.012,2,0.001
+Jable,written,292750,76,0.026,163,0.056
+WhCan,oral,27850,111,0.399,0,0.0

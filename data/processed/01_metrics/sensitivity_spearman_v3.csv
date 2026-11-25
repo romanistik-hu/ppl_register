@@ -1,0 +1,7 @@
+metric,rho,p_value,robust
+perplexity,0.995,0.0,True
+attention_entropy,0.995,0.0,True
+mad,0.923,0.0,True
+ipi,0.812,0.0007,True
+entropy,0.599,0.0306,False
+mtld,0.78,0.0017,True

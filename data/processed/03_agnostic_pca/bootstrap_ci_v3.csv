@@ -1,0 +1,4 @@
+feature,loading_mean,ci_lo,ci_hi,stable
+perplexity,-0.5509,-0.5681,-0.515,True
+attention_entropy,-0.5881,-0.6041,-0.578,True
+mad,0.5914,0.5762,0.6144,True

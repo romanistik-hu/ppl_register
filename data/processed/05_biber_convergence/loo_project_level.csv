@@ -1,0 +1,8 @@
+project_removed,n_corpora_removed,n_remaining,rho_loo,delta_rho,p_loo
+CoACan,4,9,0.7833,-0.0958,0.01252
+PARCAN,2,11,0.8273,-0.0518,0.00168
+PRESEEA,3,10,0.9152,0.036,0.0002
+Jable,1,12,0.8601,-0.019,0.00033
+CoCanWA,1,12,0.8671,-0.012,0.00026
+COSER,1,12,0.8881,0.009,0.00011
+AMERESCO,1,12,0.8811,0.002,0.00015

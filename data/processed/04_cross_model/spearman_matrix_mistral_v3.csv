@@ -1,0 +1,10 @@
+model,metric,column,rho,p,sig,n
+salamandra,perplexity,perplexity,-0.9341,3e-06,***,13
+salamandra,attention_entropy,attention_entropy,-0.7912,0.001275,**,13
+salamandra,mad,mad,0.8462,0.000266,***,13
+llama3,perplexity,perplexity_llama3,-0.8901,4.6e-05,***,13
+llama3,attention_entropy,attention_entropy_llama3,-0.9286,5e-06,***,13
+llama3,mad,mad_llama3,0.8901,4.6e-05,***,13
+mistral,perplexity,perplexity_mistral,-0.8571,0.000181,***,13
+mistral,attention_entropy,attention_entropy_mistral,-0.978,0.0,***,13
+mistral,mad,mad_mistral,0.967,0.0,***,13

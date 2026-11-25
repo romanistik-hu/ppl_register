@@ -1,0 +1,21 @@
+model,pole,sentence_id,ppl,text
+llama3,planned,0,5.890927288919442,La Consejería de Turismo ha aprobado hoy una nueva partida presupuestaria destinada a la mejora de las infraestructuras portuarias del archipiélago.
+llama3,planned,1,6.512372553674975,"En sesión plenaria celebrada el pasado martes, la Cámara acordó por unanimidad remitir el expediente a la comisión correspondiente para su estudio detallado."
+llama3,planned,2,6.412411179121873,El presente informe recoge las conclusiones alcanzadas tras el análisis pormenorizado de los datos aportados por las administraciones competentes.
+llama3,planned,3,7.331554882159645,"Según fuentes oficiales, el proyecto de rehabilitación del casco histórico contempla una inversión superior a los tres millones de euros."
+llama3,planned,4,7.612710237854499,La corporación municipal ha manifestado su compromiso con la sostenibilidad ambiental a través de la firma de un nuevo convenio de colaboración.
+llama3,planned,5,8.60974734597129,Se hace constar que la presente resolución podrá ser recurrida en el plazo de un mes ante el órgano administrativo correspondiente.
+llama3,planned,6,6.8608310319743255,El pleno del cabildo insular procedió a la votación de las enmiendas presentadas por los distintos grupos políticos.
+llama3,planned,7,26.866200177512567,La memoria anual detalla los avances registrados en materia de empleo juvenil durante el último ejercicio.
+llama3,planned,8,13.820865689403654,Los servicios técnicos han elaborado un informe favorable sobre la viabilidad del proyecto presentado por la entidad promotora.
+llama3,planned,9,12.287565759754367,"Con motivo de la efeméride, las autoridades insulares han convocado un acto institucional en la sede del organismo."
+llama3,spontaneous,0,17.082575177583895,"Mira, yo ayer fui pa' casa de mi agüela y ella tenía la guagua esperándome allí en la parada, pero llegué tarde y ya se había ido."
+llama3,spontaneous,1,44.52729114667018,"Oye, y tú ¿qué hiciste al final con lo del trabajo ese que te dije, lo dejaste o qué fisco pasó ahí?"
+llama3,spontaneous,2,21.782780574539252,"No sé, chacho, es que a mí esas cosas me ponen de un nervioso que no veas, en serio te lo digo."
+llama3,spontaneous,3,22.419219275574065,"Bueno pues nada, allí estábamos los tres esperando y va y se pone a llover, imagínate el show que se armó."
+llama3,spontaneous,4,22.20496270686288,"Y yo le digo, oye pero eso no es así, y ella ni caso, siguió a lo suyo como si nada."
+llama3,spontaneous,5,16.453540559841446,"Fíjate que el otro día fui al mercadillo y había una cola que no veas, tuve que esperar como media hora pa' comprar cuatro papas."
+llama3,spontaneous,6,9.874167455978085,"La verdad es que no tengo ni idea, eso pregúntaselo a mi hermano que él sabe más de eso que yo."
+llama3,spontaneous,7,18.499085002094695,"Ay mija, no me hables de eso que todavía me da hasta rabia de pensarlo, fue un lío tremendo."
+llama3,spontaneous,8,18.839927343302488,"Total que al final ni fuimos a la playa ni nada, nos quedamos ahí en casa viendo la tele todo el día."
+llama3,spontaneous,9,46.07887907911647,"Eso sí, cuando llegue le voy a decir cuatro cosas, porque así no se puede seguir, oye."

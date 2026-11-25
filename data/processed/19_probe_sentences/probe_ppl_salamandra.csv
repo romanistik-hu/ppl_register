@@ -1,0 +1,21 @@
+model,pole,sentence_id,ppl,text
+salamandra,planned,0,14.200313555197072,La Consejería de Turismo ha aprobado hoy una nueva partida presupuestaria destinada a la mejora de las infraestructuras portuarias del archipiélago.
+salamandra,planned,1,8.29779984140761,"En sesión plenaria celebrada el pasado martes, la Cámara acordó por unanimidad remitir el expediente a la comisión correspondiente para su estudio detallado."
+salamandra,planned,2,9.489810365266965,El presente informe recoge las conclusiones alcanzadas tras el análisis pormenorizado de los datos aportados por las administraciones competentes.
+salamandra,planned,3,11.18381420929414,"Según fuentes oficiales, el proyecto de rehabilitación del casco histórico contempla una inversión superior a los tres millones de euros."
+salamandra,planned,4,12.521993305812755,La corporación municipal ha manifestado su compromiso con la sostenibilidad ambiental a través de la firma de un nuevo convenio de colaboración.
+salamandra,planned,5,8.35214623050507,Se hace constar que la presente resolución podrá ser recurrida en el plazo de un mes ante el órgano administrativo correspondiente.
+salamandra,planned,6,9.715146578583411,El pleno del cabildo insular procedió a la votación de las enmiendas presentadas por los distintos grupos políticos.
+salamandra,planned,7,38.18830241408875,La memoria anual detalla los avances registrados en materia de empleo juvenil durante el último ejercicio.
+salamandra,planned,8,12.387162948781082,Los servicios técnicos han elaborado un informe favorable sobre la viabilidad del proyecto presentado por la entidad promotora.
+salamandra,planned,9,11.784000881705012,"Con motivo de la efeméride, las autoridades insulares han convocado un acto institucional en la sede del organismo."
+salamandra,spontaneous,0,21.133781997902517,"Mira, yo ayer fui pa' casa de mi agüela y ella tenía la guagua esperándome allí en la parada, pero llegué tarde y ya se había ido."
+salamandra,spontaneous,1,34.16362722575854,"Oye, y tú ¿qué hiciste al final con lo del trabajo ese que te dije, lo dejaste o qué fisco pasó ahí?"
+salamandra,spontaneous,2,15.357491245643894,"No sé, chacho, es que a mí esas cosas me ponen de un nervioso que no veas, en serio te lo digo."
+salamandra,spontaneous,3,19.10524859406412,"Bueno pues nada, allí estábamos los tres esperando y va y se pone a llover, imagínate el show que se armó."
+salamandra,spontaneous,4,13.688687440553007,"Y yo le digo, oye pero eso no es así, y ella ni caso, siguió a lo suyo como si nada."
+salamandra,spontaneous,5,19.73181548413119,"Fíjate que el otro día fui al mercadillo y había una cola que no veas, tuve que esperar como media hora pa' comprar cuatro papas."
+salamandra,spontaneous,6,10.081243062243901,"La verdad es que no tengo ni idea, eso pregúntaselo a mi hermano que él sabe más de eso que yo."
+salamandra,spontaneous,7,26.128127321586415,"Ay mija, no me hables de eso que todavía me da hasta rabia de pensarlo, fue un lío tremendo."
+salamandra,spontaneous,8,14.92908322700081,"Total que al final ni fuimos a la playa ni nada, nos quedamos ahí en casa viendo la tele todo el día."
+salamandra,spontaneous,9,20.57056008206424,"Eso sí, cuando llegue le voy a decir cuatro cosas, porque así no se puede seguir, oye."

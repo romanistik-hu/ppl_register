@@ -1,0 +1,71 @@
+tipo_corpus,medium,ppl,n_chars
+S brdcast discussn,spoken,23.39422370650527,300000
+S brdcast documentary,spoken,21.607377256245996,224829
+S brdcast news,spoken,16.462548204166755,300000
+S classroom,spoken,21.872262207158276,300000
+S consult,spoken,28.635499921710817,300000
+S conv,spoken,29.41003790239759,300000
+S courtroom,spoken,26.315505149052374,300000
+S demonstratn,spoken,22.78045177552965,154201
+S interview,spoken,26.149648786059473,300000
+S interview oral history,spoken,24.712081130043835,300000
+S lect commerce,spoken,18.61407253652562,83179
+S lect humanities arts,spoken,19.23978915771291,275613
+S lect nat science,spoken,19.571506109412073,127373
+S lect polit law edu,spoken,15.303468518652354,278202
+S lect soc science,spoken,17.39968066072236,300000
+S meeting,spoken,28.134632214999503,300000
+S parliament,spoken,20.640195292601927,300000
+S pub debate,spoken,23.82261477470533,300000
+S sermon,spoken,12.196586488927577,300000
+S speech scripted,spoken,20.901387775380552,300000
+S speech unscripted,spoken,21.9720073794382,300000
+S sportslive,spoken,32.67121149938191,169638
+S tutorial,spoken,22.6494395411575,300000
+S unclassified,spoken,13.21164633486469,300000
+W ac:humanities arts,written,18.31208166805546,300000
+W ac:medicine,written,11.905284521909401,300000
+W ac:nat science,written,12.023328765470033,300000
+W ac:polit law edu,written,14.936449285014314,300000
+W ac:soc science,written,13.236918158866107,300000
+W ac:tech engin,written,11.025067839894096,300000
+W admin,written,12.901826766564644,300000
+W advert,written,13.700395832436376,300000
+W biography,written,16.523890050871064,300000
+W commerce,written,15.039842779886204,300000
+W email,written,22.298048245767916,300000
+W essay school,written,16.038600174526696,300000
+W essay univ,written,13.356006291984574,300000
+W fict drama,written,14.84534960879204,242827
+W fict poetry,written,45.64090679194107,300000
+W fict prose,written,16.249549874590837,300000
+W hansard,written,10.342783411851846,300000
+W institut doc,written,9.617401896317372,300000
+W instructional,written,14.940046044297663,300000
+W letters personal,written,21.791341210695833,285164
+W letters prof,written,11.486112644729243,300000
+W misc,written,15.287269527580655,300000
+W news script,written,17.297605559812233,300000
+W newsp brdsht nat: arts,written,18.411032237824642,300000
+W newsp brdsht nat: commerce,written,14.284502290794357,300000
+W newsp brdsht nat: editorial,written,16.485806412452785,300000
+W newsp brdsht nat: misc,written,13.79549234622955,300000
+W newsp brdsht nat: report,written,13.074722211680665,300000
+W newsp brdsht nat: science,written,14.396694634365483,300000
+W newsp brdsht nat: social,written,15.4296578167852,300000
+W newsp brdsht nat: sports,written,14.96656200557959,300000
+W newsp other: arts,written,15.322556542283115,300000
+W newsp other: commerce,written,15.307064366820594,300000
+W newsp other: report,written,12.73574216539621,300000
+W newsp other: science,written,13.961307002752612,300000
+W newsp other: social,written,14.048094301739956,300000
+W newsp other: sports,written,14.453320189701664,300000
+W newsp tabloid,written,15.878040804312935,300000
+W nonAc: humanities arts,written,13.537424580084833,300000
+W nonAc: medicine,written,12.450928477552933,300000
+W nonAc: nat science,written,11.510534658834152,300000
+W nonAc: polit law edu,written,12.693431417569082,300000
+W nonAc: soc science,written,10.315201124737786,300000
+W nonAc: tech engin,written,18.49855718583888,300000
+W pop lore,written,14.391305576960582,300000
+W religion,written,21.107536160394638,300000

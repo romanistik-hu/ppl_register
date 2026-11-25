@@ -1,0 +1,2 @@
+baseline,n_params_M,rho_MD_F1,p_MD_F1,rho_KO,p_KO,rho_vs_salamandra,p_vs_salamandra,n
+gpt2_small_spanish_124M,124.4,0.72,0.00554,0.777,0.00178,0.791,0.00128,13
